@@ -1,5 +1,5 @@
 import unittest
-import org.cu.test.ComputerHardware.IdentifyImageService as service
+import IdentifyImageService as service
 '''
 @Author Liu Jiage
 @Date 2th June 2021
