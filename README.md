@@ -5,4 +5,3 @@ Given some images, classify them by gender.  Identify images of the human face. 
 
 ![image](https://user-images.githubusercontent.com/183577/155830812-4f4494ac-bf84-43c7-b599-6b566c1ff779.png)
 
-![image](https://user-images.githubusercontent.com/183577/155830817-9ffe8849-1922-42d1-a7bf-86d31121f0f8.png)
